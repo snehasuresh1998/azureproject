@@ -1,0 +1,45 @@
+@charset "ISO-8859-1";
+
+.icon {
+	color: white;
+}
+.login {
+	background-image: url("https://cdn.pixabay.com/photo/2021/11/20/03/16/doctor-6810750_960_720.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.index {
+	background-image: url("https://cdn.pixabay.com/photo/2021/11/20/03/16/doctor-6810750_960_720.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.index .btn{
+	background: #89CFF0;
+	color: white;
+	font-size: 25px;
+}
+
+
+
+.patient {
+	background-image: url("https://media.istockphoto.com/photos/vaccination-or-drug-concept-image-picture-id1267049795?k=20&m=1267049795&s=612x612&w=0&h=H7KP_Lz5NwKmtNurOCBkc3zEXHDb_S-Cv7uaW5KyLJA=");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.admin {
+	background-image: url("https://cdn.pixabay.com/photo/2017/01/24/03/53/plant-2004483_960_720.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.card {
+	background-color: white ;
+	border-radius: 10px;
+}
+
+h1 {
+	font-family: 'Anton', sans-serif;
+}
+i {
+	color: #000000;
+}
